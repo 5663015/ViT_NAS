@@ -1,0 +1,1 @@
+- ```./train_vit```：ViT在ImageNet上的训练
